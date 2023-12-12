@@ -37,7 +37,7 @@ h1 {
 .cell {
     width: 100px;
     height: 100px;
-    background-color: #3cef;
+    background-color: rgb(57, 238, 51);
     display: flex;
     align-items: center;
     justify-content: center;
